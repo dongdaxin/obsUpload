@@ -1,0 +1,25 @@
+.DS_Store
+node_modules/
+gstc/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+**/*.log
+gstc.tar
+tests/**/coverage/
+tests/e2e/reports
+selenium-debug.log
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+package-lock.json
+yarn.lock
+.parcel-cache
+dist
+coverage
